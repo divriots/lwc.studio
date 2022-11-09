@@ -1,2 +1,3 @@
 # lwc.studio
-The Lightning Web Component Playground
+Online IDE for Lightning Web Components
+and Salesforce's Lightning design system.
